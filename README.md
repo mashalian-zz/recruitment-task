@@ -11,4 +11,4 @@ Tobe able to run the project follow the instructions below
 
 5.Go to your browser and use this URL=http://localhost:5000/greeting
 
-*Consider that you should specify http headers(account,id,type)
+*Consider that you should add the parameters e.g http://localhost:5000/greeting?id=1234&account=personal
